@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "API_Palusa.Controllers.EstoqueController",
+    "Method": "add",
+    "RelativePath": "API/Estoque",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estoqueview",
+        "Type": "API_Palusa.ViewModel.EstoqueViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Palusa.Controllers.EstoqueController",
+    "Method": "Get",
+    "RelativePath": "API/Estoque",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

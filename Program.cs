@@ -4,10 +4,18 @@ using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Adiciona política CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("PermitirTudo", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -15,7 +23,9 @@ builder.Services.AddTransient<iestoqueRepository, EstoqueRepository>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Ativa CORS globalmente
+app.UseCors("PermitirTudo");
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -23,9 +33,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();
