@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JUAN\\Documents\\projeto gerador de senha\\API_Palusa\\API_Palusa.csproj": {}
+    "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JUAN\\Documents\\projeto gerador de senha\\API_Palusa\\API_Palusa.csproj": {
+    "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JUAN\\Documents\\projeto gerador de senha\\API_Palusa\\API_Palusa.csproj",
+        "projectUniqueName": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj",
         "projectName": "API_Palusa",
-        "projectPath": "C:\\Users\\JUAN\\Documents\\projeto gerador de senha\\API_Palusa\\API_Palusa.csproj",
+        "projectPath": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj",
         "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JUAN\\Documents\\projeto gerador de senha\\API_Palusa\\obj\\",
+        "outputPath": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

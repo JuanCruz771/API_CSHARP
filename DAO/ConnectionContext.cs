@@ -9,11 +9,11 @@ namespace API_Palusa.DAO
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
      => optionsBuilder.UseNpgsql(
-         "Server=maglev.proxy.rlwy.net;" +
-         "Port=30619;" +
-         "Database=railway;" +
+         "Server=accusingly-energetic-basset.data-1.use1.tembo.io;" +
+         "Port=5432;" +
+         "Database=postgres;" +
          "Username=postgres;" +
-         "Password=OIJcvSoOFcekJmSTXRxJjVBzcWfXhcRP;");
+         "Password=CXHwUKcvWhv05oIe;");
 
     }
 }

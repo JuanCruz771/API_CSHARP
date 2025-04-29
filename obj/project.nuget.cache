@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emOELzgX75Q=",
+  "dgSpecHash": "fKfB90N5YU0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JUAN\\Documents\\projeto gerador de senha\\API_Palusa\\API_Palusa.csproj",
+  "projectFilePath": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JUAN\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
     "C:\\Users\\JUAN\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.3\\microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
