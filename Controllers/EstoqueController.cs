@@ -36,5 +36,22 @@ namespace API_Palusa.Controllers
 
             return Ok(estoque);
         }
+
+        [HttpPut("{id}")]
+        public IActionResult Update(int id, [FromBody] AtualizarLocalViewModel vm)
+        {
+            var estoqueExistente = estoqueRepository.GetById(id);
+
+            if (estoqueExistente == null)
+                return NotFound();
+
+            estoqueExistente.local = vm.local;
+            estoqueRepository.Update(estoqueExistente);
+
+            return Ok(estoqueExistente);
+        }
+
+
+
     }
 }

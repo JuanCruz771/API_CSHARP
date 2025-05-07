@@ -1,4 +1,5 @@
 ﻿using API_Palusa.models;
+using Microsoft.EntityFrameworkCore;
 
 namespace API_Palusa.DAO
 {
@@ -10,10 +11,22 @@ namespace API_Palusa.DAO
             return context.estoques.ToList();
         }
 
+        public estoque GetById(int id)
+        {
+            return context.estoques.FirstOrDefault(e => e.id == id);
+        }
+
+
         public void save(estoque estoque)
         {
             context.estoques.Add(estoque);
             context.SaveChanges();
         }
+        public void Update(estoque estoque)
+        {
+            context.estoques.Update(estoque); // CORRETO
+            context.SaveChanges();
+        }
+
     }
 }

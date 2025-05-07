@@ -5,5 +5,8 @@
         void save(estoque estoque);
 
         List<estoque> Get();
+        estoque GetById(int id);
+
+        void Update(estoque estoque);
     }
 }

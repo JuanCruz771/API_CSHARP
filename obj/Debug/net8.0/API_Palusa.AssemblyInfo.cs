@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_Palusa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bcf721b768d8bfdb4e924256fcdf5939bba5b6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7a0341814e53a45d64957c364f449b8f4e748c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_Palusa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_Palusa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,6 +6,7 @@ namespace API_Palusa.DAO
     public class ConnectionContext : DbContext
     {
         public DbSet<estoque> estoques { get; set; }
+        
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
      => optionsBuilder.UseNpgsql(
