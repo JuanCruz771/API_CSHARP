@@ -7,12 +7,11 @@ namespace API_Palusa.DAO
     {
         public DbSet<estoque> estoques { get; set; }
 
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var dbServer = Environment.GetEnvironmentVariable("DB_SERVER");
             var dbPassword = Environment.GetEnvironmentVariable("DB_PASSWORD");
-            var dbPort = Environment.GetEnvironmentVariable("DB_PORT");            
+            var dbPort = Environment.GetEnvironmentVariable("DB_PORT");
             var dbData = Environment.GetEnvironmentVariable("DB_DATA");
             var dbUser = Environment.GetEnvironmentVariable("DB_USER");
 
@@ -20,4 +19,5 @@ namespace API_Palusa.DAO
 
             optionsBuilder.UseNpgsql(connectionString);
         }
-    }
+    } // <- FALTAVA ESSA CHAVE!
+}
