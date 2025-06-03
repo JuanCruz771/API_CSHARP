@@ -2,10 +2,6 @@
 {
     public class TokenService
     {
-        public static object GenerateToken() { 
-
-
-
-        }
+       
     }
 }

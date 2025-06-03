@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\dao\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:dao\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\dao\\estoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:dao\\estoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\models\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:models\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\models\\iestoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:models\\iestoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\dao\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\dao\\estoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:dao\\estoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\models\\iestoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:models\\iestoquerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\models\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:models\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:viewmodel\\estoqueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|c:\\users\\juan\\documents\\porjoteo_portifolio\\api_palusa\\api_palusa\\api_c-_palusa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDCFC5E8-0FE5-4AD7-AA38-3D09399F5CE9}|API_Palusa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -70,24 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\DAO\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "DAO\\UsuarioRepository.cs",
               "ToolTip": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\DAO\\UsuarioRepository.cs",
               "RelativeToolTip": "DAO\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T23:59:18.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EstoqueRepository.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\DAO\\EstoqueRepository.cs",
               "RelativeDocumentMoniker": "DAO\\EstoqueRepository.cs",
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "iusuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\models\\iusuarioRepository.cs",
               "RelativeDocumentMoniker": "models\\iusuarioRepository.cs",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "estoque.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\models\\estoque.cs",
               "RelativeDocumentMoniker": "models\\estoque.cs",
@@ -134,12 +134,11 @@
               "RelativeToolTip": "models\\estoque.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T01:43:37.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T01:43:37.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ConnectionContext.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\DAO\\ConnectionContext.cs",
               "RelativeDocumentMoniker": "DAO\\ConnectionContext.cs",
@@ -147,12 +146,11 @@
               "RelativeToolTip": "DAO\\ConnectionContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:46:07.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T23:46:07.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EstoqueController.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\Controllers\\EstoqueController.cs",
               "RelativeDocumentMoniker": "Controllers\\EstoqueController.cs",
@@ -164,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
@@ -176,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "usuario.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\models\\usuario.cs",
               "RelativeDocumentMoniker": "models\\usuario.cs",
@@ -188,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UsuarioViewModel.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\ViewModel\\UsuarioViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\UsuarioViewModel.cs",
@@ -200,19 +198,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "Services\\TokenService.cs",
               "ToolTip": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\Services\\TokenService.cs",
               "RelativeToolTip": "Services\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T00:50:40.264Z"
+              "WhenOpened": "2025-05-28T00:50:40.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Key.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\Key.cs",
               "RelativeDocumentMoniker": "Key.cs",
@@ -236,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AtualizarLocalViewModel.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\ViewModel\\AtualizarLocalViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\AtualizarLocalViewModel.cs",
@@ -248,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EstoqueViewModel.cs",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\ViewModel\\EstoqueViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\EstoqueViewModel.cs",
