@@ -24,7 +24,7 @@ namespace API_Palusa.DAO
         }
         public void Update(estoque estoque)
         {
-            context.estoques.Update(estoque); // CORRETO
+            context.estoques.Update(estoque); 
             context.SaveChanges();
         }
 

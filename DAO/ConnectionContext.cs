@@ -6,6 +6,8 @@ namespace API_Palusa.DAO
     public class ConnectionContext : DbContext
     {
         public DbSet<estoque> estoques { get; set; }
+        public DbSet<usuario> usuarios { get; set; }
+        
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -19,5 +21,5 @@ namespace API_Palusa.DAO
 
             optionsBuilder.UseNpgsql(connectionString);
         }
-    } // <- FALTAVA ESSA CHAVE!
+    } 
 }

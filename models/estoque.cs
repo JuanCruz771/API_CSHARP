@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace API_Palusa.models
 {
-    [Table("estoque")]
+    [Table("Estoque")]
     public class estoque
     {
         public estoque(string codigo, string descricao, string marca, string quantidade, string local)
