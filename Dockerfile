@@ -18,5 +18,5 @@ COPY --from=build /out .
 # Define a porta que o Railway vai usar
 ENV ASPNETCORE_URLS=http://+:8080
 
-ENTRYPOINT ["dotnet", "API_Palusa.dll"]
+ENTRYPOINT ["dotnet", "API_CSHARP.dll"]
 
