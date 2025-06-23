@@ -45,5 +45,52 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Palusa.Controllers.UsuarioController",
+    "Method": "add",
+    "RelativePath": "API/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioView",
+        "Type": "API_Palusa.ViewModel.UsuarioViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Palusa.Controllers.UsuarioController",
+    "Method": "Get",
+    "RelativePath": "API/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Palusa.Controllers.UsuarioController",
+    "Method": "Update",
+    "RelativePath": "API/Usuario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "vm",
+        "Type": "API_Palusa.ViewModel.UsuarioViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

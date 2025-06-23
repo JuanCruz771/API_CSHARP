@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj": {}
+    "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_CSHARP.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj": {
+    "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_CSHARP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj",
-        "projectName": "API_Palusa",
-        "projectPath": "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_Palusa.csproj",
+        "projectUniqueName": "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_CSHARP.csproj",
+        "projectName": "API_CSHARP",
+        "projectPath": "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\API_CSHARP.csproj",
         "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
         "outputPath": "D:\\Projetos\\Porjoteo_Portifolio\\API_PALUSA\\API_PALUSA\\API_C-_Palusa\\obj\\",
         "projectStyle": "PackageReference",
