@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copia só o .csproj primeiro (isso evita cache desnecessário)
-COPY API_CSHARPcsproj ./
+COPY API_CSHARP.csproj ./
 RUN dotnet restore
 
 # Copia todo o restante da aplicação
